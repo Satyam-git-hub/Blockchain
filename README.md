@@ -60,12 +60,11 @@ My Token Name : chhillar17 (kc)
 
 My Token address :
 
-    0x4bB7d9dA727097c659D93bC162868B74429bd7c9
+    0x09a359301Ed4F9f9943f75088515B96410844230
 
 My Metamask wallet address: 
 
-    0xa1c522B4e35011EAC712BAFe1C1a397DC3dC4fB3
+    0x21e93479cbac1832ed4e78465425df02af9dbd6e
 
-GoerliETH testnet currency : 0.1635GoerliETH
 
-SepoliaETH testnet currency :0.5345SepoliaETH
+
